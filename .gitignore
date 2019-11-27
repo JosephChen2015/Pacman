@@ -1,0 +1,7 @@
+.idea/
+instructions.pdf
+venv
+.DS_Store
+__pycache__/
+contest.md
+README.md
