@@ -189,15 +189,15 @@ The GIFs are the performance of two agents in different scenarios.
 
 * GIF 1: Attacker detours to get rid of opponent defender and eat food successfully.
 
-![gif1](image/GIF1.gif)
+![gif1](pacman-contest/image/GIF1.gif)
 
 * GIF 2: Defender can effectively defence two attackers at the same time.
 
-![gif2](image/GIF2.gif)
+![gif2](pacman-contest/image/GIF2.gif)
 
 * GIF 3: Attacker is unable to detect the dead end.
 
-![gif3](image/GIF3.gif)  
+![gif3](pacman-contest/image/GIF3.gif)  
 
 [Back to top](#uom-comp90054-contest-project)
 
@@ -205,11 +205,11 @@ The GIFs are the performance of two agents in different scenarios.
 
 * GIF 4: Defender successfully predicts the intention of enemy attacker, therefore avoiding food below to be eaten.
 
-![gif4](image/GIF4.gif)
+![gif4](pacman-contest/image/GIF4.gif)
 
 * GIF 5: Defender shows "stupid" behavior, as it should predict the movement of enemy attacker in advance and wait at the exit rather than blindly chasing after it.
 
-![gif5](image/GIF5.gif)  
+![gif5](pacman-contest/image/GIF5.gif)  
 
 [Back to top](#uom-comp90054-contest-project)
 
@@ -217,7 +217,7 @@ The GIFs are the performance of two agents in different scenarios.
 
 ### Performance Comparison
 
-![performance comparison](image/bigcontest.jpg)
+![performance comparison](pacman-contest/image/bigcontest.jpg)
 
 The table is the performance statistics of two agents in tournaments during the last two weeks. As a* agent is better than hybrid agent (a* attacker and MCTS defender), we test a* agent more often.
 In over 560+ rounds of games, our a* agent wins 412 rounds, which is over 53% of the games and loses only 34% of the games. It can beat staff-basic, staff-medium and staff-top teams in most contests and has the ability to beat staff-super team in several maps.
